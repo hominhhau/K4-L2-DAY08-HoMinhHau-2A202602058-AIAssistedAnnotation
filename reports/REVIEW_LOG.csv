@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,các xe ở góc bị che nằm giữa phía trên ảnh,added,Thấy thân xe phù hợp với car nên tiến hành gán
+1,frame_0107.jpg,các xe cụm lại với nhau,added,Có thể quan sát được từng xe khác nhau nên đánh giá là xe
+1,frame_0187.jpg,xe màu đỏ mé phải bị outside,edited,AI chưa bao đủ phần xe để lộ một phần bên dưới của xe
